@@ -1,0 +1,51 @@
+MIME-Version: 1.0
+Date: Wed, 05 Nov 2025 14:27:33 -0500
+Message-ID: <CAK1234567890@example-phish.net>
+Subject: =?UTF-8?B?VHJ1c3QgQWNjb3VudCBTdXNwZW5kZWQgLSBBY3Qgbm93IQ==?=
+From: Trust Bank Security <security@trust-bank-support.com>
+Reply-To: urgent-response@trustbank-alert.co
+To: student@example.edu
+Received: from mail.phishy-server.net (mail.phishy-server.net [203.0.113.55])
+	by mx.student.edu (Postfix) with ESMTP id 4A2B3F12AB
+	for <student@example.edu>; Wed, 05 Nov 2025 19:27:30 +0000 (UTC)
+Received: from [192.168.1.77] (unknown [192.168.1.77])
+	by mail.phishy-server.net (Postfix) with ESMTPA id 9F8E21234
+	for <student@example.edu>; Wed, 05 Nov 2025 14:27:28 -0500 (EST)
+X-Mailer: Microsoft Outlook 16.0
+Content-Type: multipart/alternative; boundary="----=_NextPart_000_001_01D9ABCD"
+
+------=_NextPart_000_001_01D9ABCD
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+RGVhciBDdXN0b21lcjoNCg0KWW91ciBUcnVzdCBCYW5rIGFjY291bnQgaGFzIGJlZW4g
+ZmxhZ2dlZCBmb3IgdW51c3VhbCBhY3Rpdml0eS4gVG8gYXZvaWQgcGVybWFuZW50	
+IHN1c3BlbnNpb24sIHlvdSBtdXN0IHZlcmlmeSB5b3VyIGlkZW50aXR5IGltbWVk
+aWF0ZWx5Lg0KDQogICogQ2xpY2sgaGVyZSB0byBzZWN1cmUgeW91ciBhY2NvdW50
+OiBodHRwczovL3RydXN0LWJhbmstc2VjdXJlLmNvbS92ZXJpZnkvP2lkPTg3NjU0
+MzIxDQoNCklmIHlvdSBpZ25vcmUgdGhpcyBub3RpZmljYXRpb24sIHlvdXIgYWNj
+b3VudCB3aWxsIGJlIGxvY2tlZCB3aXRoaW4gMjQgaG91cnMuDQoNCkRhdGU6IE5v
+dmVtYmVyIDA1LCAyMDI1DQpUcnVzdCBCYW5rIFNlY3VyaXR5IFRlYW0NCg0KVGhp
+cyBpcyBhbiBhdXRvbWF0ZWQgbWVzc2FnZS4gRG8gbm90IHJlcGx5Lg==
+
+------=_NextPart_000_001_01D9ABCD
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PHRpdGxlPlRydXN0IEJhbmsgU2VjdXJpdHkgQWxlcnQ8L3Rp
+dGxlPjwvaGVhZD48Ym9keSBzdHlsPSJmb250LWZhbWlseTpBcmlhbDsiPjxoMT5V
+cmdlbnQgU2VjdXJpdHkgVXBkYXRlPC9oMT48cD5EZWFyIEN1c3RvbWVyLDwvcD48
+cD5Zb3VyIFRydXN0IEJhbmsgYWNjb3VudCBoYXMgYmVlbiBmbGFnZ2VkIGZvciBz
+dXNwaWNpb3VzIGFjdGl2aXR5LiBUbyBwcmV2ZW50IHBlcm1hbmVudCBzdXNwZW5z
+aW9uLCB5b3UgbXVzdCB2ZXJpZnkgeW91ciBpZGVudGl0eSBpbW1lZGlhdGVseS48
+L3A+PHRhYmxlIHdpZHRoPSI2MDAiIGFsaWduPSJjZW50ZXIiPjx0cj48dGQ+PGEg
+aHJlZj0iaHR0cHM6Ly90cnVzdC1iYW5rLXNlY3VyZS5jb20vdmVyaWZ5Lz9pZD04
+NzY1NDMyMSIgc3R5bGU9ImNvbG9yOnJlZDsgZm9udC13ZWlnaHQ6Ym9sZDsiPkNs
+aWNrIGhlcmUgdG8gdmVyaWZ5PC9hPjwvdGQ+PC90cj48L3RhYmxlPjxwPklmIHlv
+dSBmYWlsIHRvIGFjdCB3aXRoaW4gPGRzdHJvbmc+MjQgaG91cnM8L3N0cm9uZz4s
+IHlvdXIgYWNjb3VudCB3aWxsIGJlIGxvY2tlZC48L3A+PHA+VGhhbmtzLDxicj5U
+cnVzdCBCYW5rIFNlY3VyaXR5IFRlYW08L3A+PGhyPjxmb250IHNpemU9IjEiPkRp
+c2NsYWltZXI6IFRoaXMgbWVzc2FnZSB3YXMgc2VudCBhdXRvbWF0aWNhbGx5LiBE
+byBub3QgcmVwbHkuPC9mb250PjwvYm9keT48L2h0bWw+
+
+------=_NextPart_000_001_01D9ABCD--
