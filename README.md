@@ -22,5 +22,6 @@ Scripting - Python, Bash, PowerShell.
 Others - Metasploit, Burp Suite, Hydra, Docker, VirtualBox.
 
 ## Featured Projects
-**Project**          **Description**                            **SKILLS**
-Phishing Triage Lab  Investigating Malicious emails & IOCs    Email Security
+**Project** - Phishing Triage Lab.
+**Description** -  Investigating Malicious Emails & IOCs.
+**SKILLS** - Email Security.
