@@ -26,3 +26,7 @@ Others - Metasploit, Burp Suite, Hydra, Docker, VirtualBox.
 **Project** - Phishing Triage Lab.  
 **Description** -  Investigating Malicious Emails & IOCs.  
 **SKILLS** - Email Security.  
+
+**Project** - Malware Analysis Lab.    
+**Description** - Investigating through Wireshark and TCPdump.    
+**SKILLS** - Network security.    
