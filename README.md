@@ -1,11 +1,11 @@
 # SOC-Cybersecurity-Portfolio
 
-Hi, I'm BONY UPPALAPATI    
-    Connect With Me: www.linkedin.com/in/bony-uppalapati-698b91251
+Hi, I'm me
+ 
 
-COMPTIA CySA+ | SECURITY+ | TCM PSAA(Pursuing)
+COMPTIA CySA+ | SECURITY+ 
 
-Turning Alerts into answers - 1.5+ years of experience in QA, plus self-taught cyber guy with a fully armed home lab.
+Turning Alerts into answers -  plus self-taught cyber guy with a fully armed home lab.
 
 SIEM - Splunk, ELK Stack, Kibana Dashboards.
 Threat Detection and Log Analysis.
